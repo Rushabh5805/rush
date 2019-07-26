@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Spring Boot, Linux/Shell, IBM Notes/Domino, Citrix XenApp, Citrix XenDesktop, Active Directory, WordPress, Git, GitHub, HTML/CSS, ITIL
-percentage: 99, 90, 85, 90, 85, 80, 85, 90, 65, 70, 65, 80
+aspects: Java, Python, Javascript, Spring Boot, MySQL, REST API, Cascade CMS, Node.js, Git, GitHub, HTML/CSS, IntelliJ
+percentage: 99, 75, 85, 90, 85, 80, 85, 90, 65, 70, 65, 80
