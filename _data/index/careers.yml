@@ -4,9 +4,7 @@
     detail: IpserLab 
     i18n: novomatic_b
   desc:
-    detail: • Designed the UI and developed front end of the web application that generates the quiz for sales and marketing research. 
-• To design the front end, we used HTML5, CSS3 and JavaScript. Node.js was used for server side scripting. 
-• Used github for Continuous integration of code and continuous deployment and reduced the deployment times
+    detail: • Designed the UI and developed front end of the web application that generates the quiz for sales and marketing research. • To design the front end, we used HTML5, CSS3 and JavaScript. Node.js was used for server side scripting. • Used github for Continuous integration of code and continuous deployment and reduced the deployment times
     i18n: novomatic_b_desc
   date:
     detail: June 2019 - Present
@@ -21,10 +19,7 @@
     detail: California State University, East Bay
     i18n: novomatic
   desc:
-    detail: •	Actively developed accessible sites with responsive design. 
-•	Developed and maintained Content types for the CMS using XML. 
-•	Developed content owner searching system using REST API and JAVASCRIPT. 
-•	Maintain the database using MYSQL and developed accessible PHP forms.
+    detail: •	Actively developed accessible sites with responsive design. •	Developed and maintained Content types for the CMS using XML. •	Developed content owner searching system using REST API and JAVASCRIPT. •	Maintain the database using MYSQL and developed accessible PHP forms.
     i18n: novomatic_desc
   date:
     detail: January 2018- May 2019
