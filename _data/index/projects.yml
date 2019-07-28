@@ -2,7 +2,8 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Monster Battle
-  gh_user: KACE-SMA-Tools
+  gh_user: Rushabh5805
+  repo: MementoHw
   url: https://github.com/Rushabh5805/MementoHw
   img: /static/assets/img/landing/game.png
   desc: >
@@ -10,32 +11,31 @@
     used JUNIT to run the testcases.
   #i18n: kace-sma-tools
 
-- name: K1000 Database Queries
-  gh_user: KACE-SMA-Tools
-  repo: K1000-Database-Queries
+- name: Tic Tac Toe
+  gh_user: Rushabh5805
+  repo: Tic_Tac_Toe
   img: /static/assets/img/landing/development.png
-  desc:  Una collezione di queries MySQL per Il KACE 1000 (Quest Kace Systems Management Appliance)
+  desc:  A smart game where a bot will always try to either win or draw the game developed in python.
   #i18n: k1000-database-queries
 
-- name: IPUI to IPEI
-  gh_user: Skyflash
-  repo: ipui2ipei
+- name: Photo Sharing Website
+  gh_user: Rushabh5805
+  repo: photosite
   img: /static/assets/img/landing/dect-85-512.png
-  desc: IPUI 2 IPEI converte i codici IPUI, tipici dei telefoni DECT Siemens, allo standard IPEI.
+  desc: MVC web application where users share the photos and can comment or like them, dveeloped using Ruby on Rails and SQLITE.
 
-- name: FlottaStellare.it
-  gh_user:  ed-acfs
-  repo: ed-acfs.github.io
-  url:  https://flottastellare.it
+- name: Facebook Status Update App on GAE
+  gh_user:  Rushabh5805
+  repo: ProjectR1
   img:  /static/assets/img/landing/flottastellare.png
-  desc: "Il sito web per lo Squadrone Flotta Stellare di Elite: Dangerous"
+  desc: Using Facebook API's I developed a web application where we can update the status. All the data collected from these messages is stored in GAE data Store and retrieved back to display on web page along with view count and most visited tweets.
 
-- name: La Traduzione di Morrowind
-  gh_user:  Skyflash
-  repo: morrowind-italian-itp-translation
-  url: https://www.skyflash.it/traduzione-italiano-morrowind-tribunal-bloodmoon/3581/
+- name: Network analysis using client server architecture
+  gh_user:  
+  repo: 
+  url: 
   img: /static/assets/img/landing/morrowind.png
-  desc: La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP
+  desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
   #i18n: morrowind-translation
 
 - name: This website on Github
