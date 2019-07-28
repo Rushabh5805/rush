@@ -5,7 +5,9 @@
   gh_user: KACE-SMA-Tools
   url: https://github.com/Rushabh5805/MementoHw
   img: /static/assets/img/landing/game.png
-  desc: Console based game developed using Memento design pattern and used JUNIT to run the testcases.
+  desc: >
+    Console based game developed using Memento design pattern and 
+    used JUNIT to run the testcases.
   #i18n: kace-sma-tools
 
 - name: K1000 Database Queries
