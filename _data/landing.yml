@@ -28,6 +28,6 @@
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Activities
   tpl: links.html
   css: contact
