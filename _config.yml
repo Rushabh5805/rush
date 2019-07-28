@@ -61,7 +61,7 @@ author:  # change following line to your infomation.
   name: Rushabh Shah  # Be used at blog posts' author.
   first_name: Rushabh  # Be used at index page about me section.
   last_name: shah  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/IMG-6277.JPG  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/IMG-6277.png  # upload your avatar at directory and edit it.
   github_username: Rushabh5805  # Leave blank if you don't have now
   linkedin_id: rushabh-shah-0a8161156 # Leave blank if you don't have now
   facebook_username: rusha5805  # Leave blank if you don't have now
