@@ -4,7 +4,7 @@
 ####################################
 #
 title: Rushabh Shah
-description: "Hey all"
+description: "Software Engineer"
 keywords: Rushabh, shah, blog, jekyll, gh-pages, kace, github, wordpress
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://rushabh5805.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
