@@ -26,20 +26,20 @@
 
 - name: Facebook Status Update App on GAE
   gh_user:  Rushabh5805
-  repo: 
+  repo: abc
   img:  /static/assets/img/landing/fbTweet.png
   desc: Using Facebook API's I developed a web application where we can update the status. All the data collected from these messages is stored in GAE data Store and retrieved back to display on web page along with view count and most visited tweets.
 
 - name: Driver Dowsiness Alert System
   gh_user: Rushabh5805
-  repo: 
+  repo: xyz
   img: /static/assets/img/landing/rpi.jpg
   desc: System to alert driver while driving if he feels drowsy. Raspberry Pi is used to implement image processing. 
   #i18n: skyflash-github
   
 - name: Network analysis using client server architecture
-  gh_user:  
-  repo: 
+  gh_user: Rushabh5805
+  repo: abc
   url: 
   img: /static/assets/img/landing/network.png
   desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
