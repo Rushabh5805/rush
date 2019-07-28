@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Python, C++, Javascript, Spring Boot, MySQL, REST API, Cascade CMS, Node.js, Git, GitHub, HTML/CSS, IntelliJ, SQL
-percentage: 99, 75, 85, 85, 90, 85, 80, 85, 90, 65, 70, 65, 80, 75
+aspects: Java, Python, C++, Javascript, Spring Boot, MySQL, REST API, Cascade CMS, Node.js, Git, GitHub, HTML/CSS, XML, IntelliJ, Anaconda, SQL
+percentage: 99, 75, 85, 85, 90, 85, 80, 85, 90, 65, 70, 65, 80, 90, 80, 75
