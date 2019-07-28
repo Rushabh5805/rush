@@ -30,14 +30,6 @@
   img:  /static/assets/img/landing/fbTweet.png
   desc: Using Facebook API's I developed a web application where we can update the status. All the data collected from these messages is stored in GAE data Store and retrieved back to display on web page along with view count and most visited tweets.
 
-- name: Network analysis using client server architecture
-  gh_user:  
-  repo: 
-  url: 
-  img: /static/assets/img/landing/network.png
-  desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
-  #i18n: morrowind-translation
-
 - name: Driver Dowsiness Alert System
   gh_user: Rushabh5805
   repo: 
