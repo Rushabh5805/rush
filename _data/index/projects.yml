@@ -43,4 +43,4 @@
   url: 
   img: /static/assets/img/landing/network.png
   desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
-  #i18n: morrowind-translationbb
+  #i18n: morrowind-translation
