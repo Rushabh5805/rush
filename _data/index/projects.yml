@@ -38,9 +38,9 @@
   desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
   #i18n: morrowind-translation
 
-- name: This website on Github
-  gh_user: Skyflash
-  repo: skyflash.github.io
+- name: Driver Dowsiness Alert System
+  gh_user: Rushabh5805
+  repo: 
   img: /static/assets/img/landing/me.jpg
-  desc: Il repository GitHub su cui viene sviluppato questo sito
+  desc: System to alert driver while driving if he feels drowsy. Raspberry Pi is used to implement image processing. 
   #i18n: skyflash-github
