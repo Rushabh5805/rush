@@ -37,10 +37,10 @@
   desc: System to alert driver while driving if he feels drowsy. Raspberry Pi is used to implement image processing. 
   #i18n: skyflash-github
   
-  #- name: Network analysis using client server architecture
-  #gh_user:  
-  #repo: 
-  #url: 
-  #img: /static/assets/img/landing/network.png
-  #desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
+  - name: Network analysis using client server architecture
+  gh_user:  
+  repo: 
+  url: 
+  img: /static/assets/img/landing/network.png
+  desc: Performed analysis of the network design uploaded by client and server responded with the shortest and widest path in result.
   #i18n: morrowind-translation
