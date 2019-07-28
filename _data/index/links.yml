@@ -1,13 +1,13 @@
 # links section data
-- last_name: Robocon 2016
-  first_name:
-  desc: The theme of the competition was to give some force from the parent robot and the child robot will follow the path which had a river, slopes and curves. And my contribution was that I programmed the child robot to follow the path.
-  website: 
-  email: 
-
 - last_name: GSA (Finance Manager)
   first_name: 
   desc: Helping Indian students settling down at CSUEB when they are just starting their school here being an international student. Arranged and Managed events to showcase Indian Culture.
+  website: 
+  email: 
+  
+- last_name: Robocon 2016
+  first_name:
+  desc: The theme of the competition was to give some force from the parent robot and the child robot will follow the path which had a river, slopes and curves. And my contribution was that I programmed the child robot to follow the path.
   website: 
   email: 
 
