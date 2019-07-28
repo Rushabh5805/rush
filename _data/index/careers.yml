@@ -2,19 +2,19 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: IpserLab 
-    i18n: novomatic_b
-  desc: >
+    #i18n: novomatic_b
+  desc:
     detail: >
         • Designed the UI and developed front end of the web application that generates the quiz for sales and marketing research. 
         • To design the front end, we used HTML5, CSS3 and JavaScript. Node.js was used for server side scripting. 
         • Used github for Continuous integration of code and continuous deployment and reduced the deployment times
-    i18n: novomatic_b_desc
+    #i18n: novomatic_b_desc
   date:
     detail: June 2019 - Present
-    i18n: novomatic_b_date
+    #i18n: novomatic_b_date
   job:
     detail: Engineering Intern
-    i18n: novomatic_b_job
+    #i18n: novomatic_b_job
   icon: fa-plus-square
   present: true
 
