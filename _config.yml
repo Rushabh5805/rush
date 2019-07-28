@@ -5,9 +5,9 @@
 #
 title: Rushabh Shah
 description: "Hey all"
-keywords: cristian, castellari, blog, jekyll, gh-pages, kace, github, wordpress
+keywords: Rushabh, shah, blog, jekyll, gh-pages, kace, github, wordpress
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://cristiancastellari.it  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://rushabh5805.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 #
@@ -15,7 +15,7 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # Jekyll configuration
 ####################################
 #
-timezone: Europe/Rome
+timezone: America/Los_Angeles
 highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!--more-->
@@ -36,12 +36,12 @@ lang: it_IT
 permalink: /blog/:categories/:title/
 
 social:
-  name: Cristian Castellari
+  name: Rushabh Sah
   links:
-    - https://twitter.com/BloggerStanco
-    - https://www.facebook.com/cristian.castellari
-    - https://www.linkedin.com/in/cristiancastellari/
-    - https://github.com/Skyflash
+    - https://twitter.com/
+    - https://www.facebook.com/profile.php?id=100002467480389
+    - https://www.linkedin.com/in/rushabh-shah-0a8161156/
+    - https://github.com/Rushabh5805/
 
 twitter:
   card: summary
@@ -62,12 +62,12 @@ author:  # change following line to your infomation.
   first_name: Rushabh  # Be used at index page about me section.
   last_name: shah  # Be used at index page about me section.
   avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
-  github_username: skyflash  # Leave blank if you don't have now
-  linkedin_id: cristiancastellari # Leave blank if you don't have now
-  facebook_username: cristian.castellari  # Leave blank if you don't have now
-  twitter: BloggerStanco
-  email: c.castellari@gmail.com  # Leave blank if you don't have now
-  cv: https://cristiancastellari.it/static/assets/cv/CV_Cristian_Castellari.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  github_username: Rushabh5805  # Leave blank if you don't have now
+  linkedin_id: rushabh-shah-0a8161156 # Leave blank if you don't have now
+  facebook_username: rusha5805  # Leave blank if you don't have now
+  twitter: 
+  email: rushabh1401@gmail.com  # Leave blank if you don't have now
+  cv:  # An online CV can be printed as PDF, leave blank if you don't have now
 
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
@@ -80,8 +80,8 @@ author:  # change following line to your infomation.
   desc: Passionate Full Stack Engineer focusing on cutting edge front-end and scalable back-end technologies. Incorporating the latest design patterns, code style and robust features to build web-applications and backend APIs. I have a strong grasp of the software development activities as well as a variety of programming languages. The first two programming languages I was exposed to were JAVA and C++ nearly 5 years ago during my bachelor's. One of the major focuses of my classwork is learning to work in large teams to solve complicated problems. Recently i worked on a console based JAVA game where I used design patterns and JAVA 8 features. Also tested the game using JUNIT testcases. I believe this experience highlights my willingness to work and to solve complicated problems. Well versed at multitasking, troubleshooting and working effectively with a team.   # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: cristiancastellari-it
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+ # name: cristiancastellari-it
 
 # analytics
 ## google analytics
