@@ -14,7 +14,7 @@
 - name: Tic Tac Toe
   gh_user: Rushabh5805
   repo: Tic_Tac_Toe
-  img: /static/assets/img/landing/development.png
+  img: /static/assets/img/landing/tic.png
   desc:  A smart game where a bot will always try to either win or draw the game developed in python.
   #i18n: k1000-database-queries
 
