@@ -37,7 +37,7 @@
   desc: System to alert driver while driving if he feels drowsy. Raspberry Pi is used to implement image processing. 
   #i18n: skyflash-github
   
-  - name: Network analysis using client server architecture
+- name: Network analysis using client server architecture
   gh_user:  
   repo: 
   url: 
