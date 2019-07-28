@@ -3,7 +3,7 @@
 - name:
     detail: IpserLab 
     i18n: novomatic_b
-  desc:
+  desc: >
     detail: >
         • Designed the UI and developed front end of the web application that generates the quiz for sales and marketing research. 
         • To design the front end, we used HTML5, CSS3 and JavaScript. Node.js was used for server side scripting. 
